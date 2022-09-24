@@ -6,10 +6,10 @@ a = int(input("Enter your Percentage: "))
 if (a<35):
     print("You are Fail!")
 
-elif(a>35 and a<=50):
+elif(a>35 and a<=40):
     print("You are passed!")
 
-elif(a>50 and a<=80):
+elif(a>50 and a<=70):
     print("You are Passed with First class!")
 
 elif(a>80 and a<=100):
