@@ -9,10 +9,10 @@ if (a<35):
 elif(a>35 and a<=40):
     print("You are passed!")
 
-elif(a>50 and a<=70):
+elif(a>40 and a<=70):
     print("You are Passed with First class!")
 
-elif(a>80 and a<=100):
+elif(a>70 and a<=100):
     print("You are passed with Destination!")
 
 else:
