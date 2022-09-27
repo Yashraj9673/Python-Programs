@@ -7,7 +7,7 @@ if (a<35):
     print("You are Fail!")
 
 elif(a>35 and a<=35):
-    print("You are passed!")
+    print("Congrats! You are passed!")
 
 elif(a>35 and a<=70):
     print("You are Passed with First class!")
