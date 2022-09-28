@@ -16,7 +16,7 @@ elif(a>70 and a<=100):
     print("You are passed with Destination!")
 
 else:
-    print("Enter valid Percentage!")
+    print("Enter valid Percentage! ")
 
 # file save with txt format
 
