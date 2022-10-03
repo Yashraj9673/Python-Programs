@@ -1,6 +1,6 @@
 from typing import Text
 
-b = input("Enter your name : ")
+b = input("Enter your name :")
 a = int(input("Enter your Percentage: "))
 
 if (a<35):
