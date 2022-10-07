@@ -1,6 +1,6 @@
 from typing import Text
 
-b = input("Enter your name:")
+b = input("Enter your name: ")
 a = int(input("Enter your Percentage: "))
 
 if (a<35):
@@ -10,10 +10,10 @@ elif(a>35 and a<=35):
     print("Congrats! You are passed!")
 
 elif(a>35 and a<=70):
-    print("You are Passed with First class!")
+    print("Congrats! You are Passed with First class!")
 
 elif(a>70 and a<=100):
-    print("You are passed with Destination!")
+    print("Congrats! You are passed with Destination!")
 
 else:
     print("Enter valid Percentage! ")
